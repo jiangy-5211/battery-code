@@ -24,3 +24,4 @@ Please ensure all necessary dependencies are installed before execution.
 
 Hardware Requirements
 GPU Support: An NVIDIA GPU with CUDA support is recommended to accelerate training and inference.
+The dataset associated with this project exceeds the 25MB file size limit for commits, even after compression, preventing normal upload. As all data is publicly available, please note that the corresponding citation literature and download links are provided in the published article.
